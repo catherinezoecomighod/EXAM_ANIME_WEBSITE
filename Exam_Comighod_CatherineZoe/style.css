@@ -330,21 +330,6 @@
      justify-content: center;
    }
    
-   .btn-hero-primary {
-     background: var(--accent);
-     color: #ffffff;
-     padding: 13px 36px;
-     border-radius: var(--radius-sm);
-     font-size: 1rem;
-     font-weight: 800;
-     font-family: 'Nunito', sans-serif;
-     transition: background var(--transition), transform 0.1s;
-     box-shadow: 0 4px 18px rgba(204, 3, 3, 0.35);
-   }
-   
-   .btn-hero-primary:hover  { background: var(--accent-dark); }
-   .btn-hero-primary:active { transform: scale(0.97); }
-   
    .btn-hero-outline {
      background: transparent;
      color: #fff;

@@ -77,7 +77,6 @@ $anime_desc = [
 
         <!-- Main Content -->
         <main class="homepage-main">
-            <h2>&#127981; Latest Episodes</h2>
 
             <div class="anime-grid">
                 <?php for ($i = 0; $i < count($anime_titles); $i++): ?>

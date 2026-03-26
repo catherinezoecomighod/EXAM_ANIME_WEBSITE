@@ -70,14 +70,10 @@ session_start();
       </div>
     </nav>
 
-    <!-- Hero -->
+
     <div class="hero-content">
       <h1>ZOSHERA ANIME</h1>
-      <p>Your go-to destination for the latest anime episodes. Stream hundreds of titles, updated daily.</p>
-      <div class="hero-buttons">
-        <a href="register.php" class="btn-hero-outline">Get Started</a>
-        <a href="login.php" class="btn-hero-primary">Create An Account</a>
-      </div>
+      <p>Your gateway to extraordinary worlds. Stream the latest hits and timeless classics in stunning high definition.</p>
     </div>
 
 
